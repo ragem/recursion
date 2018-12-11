@@ -1,0 +1,10 @@
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.csprojResolveAssemblyReference.cache
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.Form1.resources
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.Properties.Resources.resources
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.csproj.GenerateResource.Cache
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.csproj.CoreCompileInputs.cache
+C:\Users\Edgars\source\repos\recursion\recursion\bin\Debug\recursion.exe.config
+C:\Users\Edgars\source\repos\recursion\recursion\bin\Debug\recursion.exe
+C:\Users\Edgars\source\repos\recursion\recursion\bin\Debug\recursion.pdb
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.exe
+C:\Users\Edgars\source\repos\recursion\recursion\obj\Debug\recursion.pdb
